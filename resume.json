@@ -1,0 +1,31 @@
+{
+  
+  "title": "Rohin Kala",
+  "summary": "Focused on accessible, user-centric web solutions that are performant and maintainable.",
+  "experience": [
+    {
+      "role": "Digital Services Supervisor",
+      "company": "SCL",
+      "period": "2023–Present",
+      "details": [
+        "Led cross-functional teams to deliver web initiatives.",
+        "Improved core web vitals and accessibility scores.",
+        "Managed stakeholder expectations and roadmaps."
+      ]
+    },
+    {
+      "role": "Web Developer",
+      "company": "MAG",
+      "period": "2019–2023",
+      "details": [
+        "Built SPA applications with React and Node.js.",
+        "Implemented CI/CD pipelines and testing strategies.",
+        "Collaborated with designers to refine UX."
+      ]
+    }
+  ],
+  "education": [
+    { "degree": "BSc in IT", "institution": "QUT", "period": "2015–2018" }
+  ],
+  "skills": ["React", "TypeScript", "Node.js", "Accessibility", "CI/CD", "Vite", "Git"]
+}

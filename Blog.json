@@ -1,0 +1,81 @@
+{
+ 
+  "blog": [
+    {
+      "id": "1",
+      "title": "This is a blog 1",
+      "summary": "This is a Summary",
+      "tagline": "oo text",
+      "image":"https://placebear.com/300/300",
+      "content": 
+        [
+          "paragraph 1",
+          "paragraph 2",
+          "paragraph 3"
+
+
+        ]
+        
+    },
+    {
+      "id": "2",
+      "title": "This is a blog 2",
+      "summary": "This is a Summary",
+      "image":"https://placebear.com/300/300",
+       "content": 
+        [
+          "paragraph 1",
+          "paragraph 2",
+          "paragraph 3",
+          "paragraph 4",
+          "paragraph 5"
+
+
+        ]
+        
+    },
+    {
+      "id": "3",
+      "title": "This is a blog 3",
+      "summary": "This is a Summary",
+      "image":"https://placebear.com/300/300",
+       "content": 
+        [
+          "paragraph 1",
+          "paragraph 2",
+          "paragraph 3"
+
+
+        ]
+    },
+    {
+      "id": "4",
+      "title": "This is a blog 4",
+      "summary": "This is a Summary",
+      "image":"https://placebear.com/300/300",
+       "content": 
+        [
+          "paragraph 1",
+          "paragraph 2",
+          "paragraph 3"
+
+
+        ]
+    },
+      
+    {
+      "id": "5",
+      "title": "This is a blog 5",
+      "summary": "This is a Summary",
+      "image":"https://placebear.com/300/300",
+       "content": 
+        [
+          "paragraph 1",
+          "paragraph 2",
+          "paragraph 3"
+
+
+        ]
+    }
+  ]
+}
