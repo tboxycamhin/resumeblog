@@ -25,7 +25,7 @@
     }
   ],
   "education": [
-    { "degree": "BSc in IT", "institution": "QUT", "period": "2015–2018" }
+    { "degree": "BSc in IT", "institution": "QUT", "period": "2015 2018" }
   ],
   "skills": ["React", "TypeScript", "Node.js", "Accessibility", "CI/CD", "Vite", "Git"]
 }
