@@ -28,7 +28,7 @@
     { "degree": "BSc in IT", "institution": "QUT", "period": "2015 2018" }
   ],
 "skills": [
-  { "name": "React", "description": "Built SPAs and optimized performance." },
+  { "name": "React", "description": "In my role as the digital servcies supervisor I have created multiple website that were SPAs and optimized performance. This has allowed my to have a deep understanding of the React" },
   { "name": "TypeScript", "description": "Used for type safety and maintainability." },
   { "name": "Node.js", "description": "Developed APIs and backend services." }
 ]
