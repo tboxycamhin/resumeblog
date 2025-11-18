@@ -27,5 +27,9 @@
   "education": [
     { "degree": "BSc in IT", "institution": "QUT", "period": "2015 2018" }
   ],
-  "skills": ["React", "TypeScript", "Node.js", "Accessibility", "CI/CD", "Vite", "Git"]
+"skills": [
+  { "name": "React", "description": "Built SPAs and optimized performance." },
+  { "name": "TypeScript", "description": "Used for type safety and maintainability." },
+  { "name": "Node.js", "description": "Developed APIs and backend services." }
+]
 }
